@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### FizzBuzz
+# FizzBuzz
 
 - The FizzBuzz Generator is a simple Python program that generates a sequence of numbers from 1 to 100. For each number, it outputs:
 
